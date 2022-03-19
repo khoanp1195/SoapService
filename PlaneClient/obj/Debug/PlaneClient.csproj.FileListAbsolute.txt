@@ -1,0 +1,17 @@
+D:\LAB-KTPM\SoapService\PlaneClient\bin\Debug\PlaneClient.exe.config
+D:\LAB-KTPM\SoapService\PlaneClient\bin\Debug\PlaneClient.exe
+D:\LAB-KTPM\SoapService\PlaneClient\bin\Debug\PlaneClient.pdb
+D:\LAB-KTPM\SoapService\PlaneClient\obj\Debug\PlaneClient.csproj.AssemblyReference.cache
+D:\LAB-KTPM\SoapService\PlaneClient\obj\Debug\PlaneClient.PlaneFrm.resources
+D:\LAB-KTPM\SoapService\PlaneClient\obj\Debug\PlaneClient.Properties.Resources.resources
+D:\LAB-KTPM\SoapService\PlaneClient\obj\Debug\PlaneClient.csproj.GenerateResource.cache
+D:\LAB-KTPM\SoapService\PlaneClient\obj\Debug\PlaneClient.csproj.CoreCompileInputs.cache
+D:\LAB-KTPM\SoapService\PlaneClient\obj\Debug\PlaneClient.exe
+D:\LAB-KTPM\SoapService\PlaneClient\obj\Debug\PlaneClient.pdb
+D:\LAB-KTPM\SoapService\PlaneClient\bin\Debug\Telerik.WinControls.dll
+D:\LAB-KTPM\SoapService\PlaneClient\bin\Debug\Telerik.WinControls.UI.dll
+D:\LAB-KTPM\SoapService\PlaneClient\bin\Debug\TelerikCommon.dll
+D:\LAB-KTPM\SoapService\PlaneClient\bin\Debug\Telerik.WinControls.xml
+D:\LAB-KTPM\SoapService\PlaneClient\bin\Debug\Telerik.WinControls.UI.xml
+D:\LAB-KTPM\SoapService\PlaneClient\obj\Debug\PlaneClient.exe.licenses
+D:\LAB-KTPM\SoapService\PlaneClient\obj\Debug\PlaneClient.csproj.CopyComplete
